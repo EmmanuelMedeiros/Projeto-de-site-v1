@@ -1,4 +1,4 @@
-# Website project v1
+# Website project
 Work in progress (first version) of my website project created after 2 weeks of study
 
 
