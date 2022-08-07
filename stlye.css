@@ -72,6 +72,7 @@ header .wrapper {
     width: 5rem;
 }
 
+.navigation li:hover,
 .openMenu button img:hover,
 #closeButton:hover{
     cursor: pointer;
@@ -82,7 +83,6 @@ header .wrapper {
 
     margin-left: -.5rem;
 }
-
 
 /*===============HAMBURGER_MENU============*/
 body.menuExpanded > :not(#navSection) {
