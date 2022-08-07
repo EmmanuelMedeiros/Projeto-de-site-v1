@@ -72,6 +72,7 @@ header .wrapper {
     width: 5rem;
 }
 
+#signUp:hover,
 .navigation li:hover,
 .openMenu button img:hover,
 #closeButton:hover{
